@@ -1,14 +1,17 @@
+//UC2:Given an array of integer,double, and character,write a program to print the same using generics
+////JAVA GENERIC CLASS
+
 package com.Bridgelabz;
 
-public class PrintArrayUC3<T> {
+public class PrintArrayUC<T> {
     private T[] inputArray;
 
-    public PrintArrayUC3(T[] inputArray) {
+    public PrintArrayUC(T[] inputArray) {
         this.inputArray = inputArray;
     }
 
     public void toPrint() {
-        PrintArrayUC3.toPrint(this.inputArray);
+        PrintArrayUC.toPrint(this.inputArray);
     }
 
     public static <E> void toPrint(E[] inputArray) {

@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77997af8-eb6e-47cb-a4c5-7bb8b6e97c48" name="Changes" comment="" />
+    <list default="true" id="77997af8-eb6e-47cb-a4c5-7bb8b6e97c48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/GenericUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/GenericUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/GenericUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/Refactor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/MaximumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/PrintArrayUC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/PrintArrayUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Bridgelabz/PrintArrayUC2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Bl8uUzOyTxHfXrMPqKnpa3ZpIL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +46,86 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Refactor1">
+    <configuration name="GenericUC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Assignments.GenericUC1" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Assignments.GenericUC2" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericUC3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Assignments.GenericUC3" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Bridgelabz.MaximumTest" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Refactor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Assignments.Refactor1" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Refactor1" />
+        <item itemvalue="Application.GenericUC3" />
+        <item itemvalue="Application.GenericUC2" />
+        <item itemvalue="Application.GenericUC1" />
+        <item itemvalue="Application.MaximumTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +136,16 @@
       <updated>1657469537025</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

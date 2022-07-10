@@ -1,5 +1,5 @@
 //UC2:Given an array of integer,double, and character,write a program to print the same using generics
-
+//JAVA GENERIC METHOD
 
 package com.Bridgelabz;
 
